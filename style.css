@@ -1,0 +1,44 @@
+body{
+    padding: 0px 50px;
+    color: rgb(0, 80, 0);
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 16px;
+}
+
+nav a:hover{
+    color: rgb(0, 255, 0);
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 40%;
+}
+
+div#area{
+text-align: center;
+}
+
+div#botão{
+    text-align: center;
+    padding: 10px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 16px;
+}
+a{
+    color: rgb(51, 156, 83);
+    text-decoration: none;
+}
+
